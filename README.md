@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ashley</h1>
 <h3 align="center">Student programmer with frontend experience</h3>
 
-- 🔭 I’m currently working on a RCOS project, [SantoriniAI](https://github.com/AshleyL119/SantoriniAI)
+- 🔭 I’m currently working on a RCOS project, [VR RCC](https://github.com/AshleyL119/VRCTF_RCOS.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshleyL119](https://github.com/AshleyL119)
 
